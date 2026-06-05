@@ -1,21 +1,9 @@
 {
-  "name": "notification_app_fe",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^9.0.1",
     "axios": "^1.17.0",
-    "dotenv": "^17.4.2"
-  },
-  "devDependencies": {
-    "@types/node": "^25.9.1",
-    "ts-node": "^10.9.2",
-    "typescript": "^6.0.3"
+    "react-router-dom": "^7.17.0"
   }
 }
